@@ -1,2 +1,2 @@
-#Video Game SQL Analysis
+# Video Game SQL Analysis
 . 
